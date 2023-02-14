@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      CPU Picker V1.0
+    </title>
+    <link rel="icon" type="image/x-icon" href="AMD.ico">
+  </head>
+<body background="wallpaper.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<h1><font size=25><center>Welcome to the CPU picker V1.0</center></font></h1>
+<form name="Form" action="/test.php" target=”_blank” method="get">
+  <label for="chipset"><font size=7>Choose a motherboard chipset:</font></label>
+  <select id="chipset" name="chipset">
+    <option type="text" value="series300">300 series chipset</option>
+    <option type="text" value="series400">400 series chipset</option>
+    <option type="text" value="series500">500 series chipset</option>
+    <option type="text" value="series600">600 series chipset</option>
+    <option type="text" value="seriesx39">X399 series chipset</option>
+    <option type="text" value="seriest40">TRX400 series chipset</option>
+  </select>
+  <br>
+  <label for="usage"><font size=7>Choose CPU usage:</font></label> 
+  <select id = "usage" name="usage">
+    <option value="gaming" type="text" name = "usage">Gaming</option>
+    <option value="desktop" type="text" name = "usage">Desktop</option>
+    <option value="workstation" type="text" name = "usage">Workstation</option>
+  </select>
+  <br>
+  <center><input type="submit" value="Done"></center>
+</form>
+<p><font size=10>To add new data insert the password here</font></p>
+<form action="edit.php" method="get">
+  <input type="text" name="password"><br>
+  <input type="submit" value = "Edit Database">
+</form>
+</body>
+</html>
