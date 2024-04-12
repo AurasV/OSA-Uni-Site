@@ -1,0 +1,58 @@
+id,name,cores,tdp,smt,igpu,price,socket,series300,series400,series500,series600,seriesx39,seriest40,benchmark,p2p
+1,AMD Ryzen 3 1200,4,65,No,No,295,AM4,Yes,Yes,No,No,No,No,6317,21.41
+2,AMD Ryzen 3 1300X,4,65,No,No,515,AM4,Yes,Yes,No,No,No,No,6936,13.47
+3,AMD Ryzen 3 2200G,4,65,No,Radeon Vega 8,666,AM4,Yes,Yes,No,No,No,No,6771,10.17
+4,AMD Ryzen 3 3100,4,65,Yes,No,472,AM4,No,Yes,Yes,No,No,No,11649,24.68
+5,AMD Ryzen 3 3200G,4,65,No,Radeon Vega 8,513,AM4,No,Yes,Yes,No,No,No,7185,14.01
+6,AMD Ryzen 3 3300X,4,65,Yes,No,692,AM4,No,Yes,Yes,No,No,No,12680,18.32
+7,AMD Ryzen 3 4100,4,65,Yes,No,418,AM4,No,Yes,Yes,No,No,No,11105,26.57
+8,AMD Ryzen 5 1400,4,65,Yes,No,695,AM4,Yes,Yes,No,No,No,No,7771,11.18
+9,AMD Ryzen 5 1500X,4,65,Yes,No,702,AM4,Yes,Yes,No,No,No,No,9101,12.96
+10,AMD Ryzen 5 1600,6,65,Yes,No,720,AM4,Yes,Yes,No,No,No,No,12296,17.08
+11,AMD Ryzen 5 1600X,6,95,Yes,No,706,AM4,Yes,Yes,No,No,No,No,13074,18.52
+12,AMD Ryzen 5 2400G,4,65,Yes,Radeon Vega 11,744,AM4,Yes,Yes,No,No,No,No,8727,11.73
+13,AMD Ryzen 5 2600,6,65,Yes,No,1050,AM4,Yes,Yes,No,No,No,No,13245,12.61
+14,AMD Ryzen 5 2600X,6,95,Yes,No,830,AM4,Yes,Yes,No,No,No,No,14009,16.88
+15,AMD Ryzen 5 3400G,4,65,Yes,Radeon Vega 11,790,AM4,No,Yes,Yes,No,No,No,9326,11.81
+16,AMD Ryzen 5 3500,6,65,No,No,OEM,AM4,No,Yes,Yes,No,No,No,12836,N/A
+17,AMD Ryzen 5 3500X,6,65,No,No,950,AM4,No,Yes,Yes,No,No,No,13239,13.94
+18,AMD Ryzen 5 3600,6,65,Yes,No,540,AM4,No,Yes,Yes,No,No,No,17802,32.97
+19,AMD Ryzen 5 3600X,6,95,Yes,No,1850,AM4,No,Yes,Yes,No,No,No,18275,9.88
+20,AMD Ryzen 5 3600XT,6,95,Yes,No,1478,AM4,No,Yes,Yes,No,No,No,18724,12.67
+21,AMD Ryzen 5 4500,6,65,Yes,No,524,AM4,No,Yes,Yes,No,No,No,16078,30.68
+22,AMD Ryzen 5 4600G,6,65,Yes,Radeon Vega 7,670,AM4,No,Yes,Yes,No,No,No,15646,23.35
+23,AMD Ryzen 5 5500,6,65,Yes,No,510,AM4,No,Yes,Yes,No,No,No,19457,38.15
+24,AMD Ryzen 5 5600,6,65,Yes,No,780,AM4,No,Yes,Yes,No,No,No,21557,27.64
+25,AMD Ryzen 5 5600G,6,65,Yes,Radeon Vega 7,670,AM4,No,Yes,Yes,No,No,No,19850,29.63
+26,AMD Ryzen 5 5600X,6,65,Yes,No,1005,AM4,No,Yes,Yes,No,No,No,21946,21.84
+27,AMD Ryzen 5 7600X,6,105,Yes,Radeon,1346,AM5,No,No,No,Yes,No,No,28700,21.32
+28,AMD Ryzen 7 1700,8,65,Yes,No,832,AM4,Yes,Yes,No,No,No,No,14848,17.85
+29,AMD Ryzen 7 1700X,8,95,Yes,No,1180,AM4,Yes,Yes,No,No,No,No,15700,13.31
+30,AMD Ryzen 7 1800X,8,95,Yes,No,1345,AM4,Yes,Yes,No,No,No,No,16442,12.22
+31,AMD Ryzen 7 2700,8,65,Yes,No,878,AM4,Yes,Yes,No,No,No,No,15775,17.97
+32,AMD Ryzen 7 2700X,8,105,Yes,No,1700,AM4,Yes,Yes,No,No,No,No,17595,10.35
+33,AMD Ryzen 7 3700X,8,65,Yes,No,1760,AM4,No,Yes,Yes,No,No,No,22694,12.89
+34,AMD Ryzen 7 3800X,8,105,Yes,No,2495,AM4,No,Yes,Yes,No,No,No,23286,9.33
+35,AMD Ryzen 7 3800XT,8,105,Yes,No,1600,AM4,No,Yes,Yes,No,No,No,23752,14.85
+36,AMD Ryzen 7 5700G,8,65,Yes,Radeon Vega 8,1075,AM4,No,Yes,Yes,No,No,No,24578,22.86
+37,AMD Ryzen 7 5700X,8,65,Yes,No,1177,AM4,No,Yes,Yes,No,No,No,26684,22.67
+38,AMD Ryzen 7 5800X,8,105,Yes,No,1400,AM4,No,Yes,Yes,No,No,No,28117,20.08
+39,AMD Ryzen 7 5800X3D,8,105,Yes,No,2200,AM4,No,Yes,Yes,No,No,No,27721,12.60
+40,AMD Ryzen 7 7700X,8,105,Yes,Radeon,1883,AM5,No,No,No,Yes,No,No,36451,19.36
+41,AMD Ryzen 9 3900X,12,105,Yes,No,2377,AM4,No,Yes,Yes,No,No,No,32749,13.78
+42,AMD Ryzen 9 3900XT,12,105,Yes,No,2701,AM4,No,Yes,Yes,No,No,No,32883,12.17
+43,AMD Ryzen 9 3950X,16,105,Yes,No,3740,AM4,No,Yes,Yes,No,No,No,39028,10.44
+44,AMD Ryzen 9 5900X,12,105,Yes,No,1930,AM4,No,Yes,Yes,No,No,No,39292,20.36
+45,AMD Ryzen 9 5950X,16,105,Yes,No,2875,AM4,No,Yes,Yes,No,No,No,45823,15.94
+46,AMD Ryzen 9 7900X,12,170,Yes,Radeon,2592,AM5,No,No,No,Yes,No,No,52063,20.09
+47,AMD Ryzen 9 7950X,16,170,Yes,Radeon,3130,AM5,No,No,No,Yes,No,No,63432,20.27
+48,AMD Threadripper 1900X,8,180,Yes,No,1023,sTR4,No,No,No,No,Yes,No,17018,16.64
+49,AMD Threadripper 1920X,12,180,Yes,No,1190,sTR4,No,No,No,No,Yes,No,22831,19.19
+50,AMD Threadripper 1950X,16,180,Yes,No,3237,sTR4,No,No,No,No,Yes,No,27790,8.59
+51,AMD Threadripper 2920X,12,180,Yes,No,3680,sTR4,No,No,No,No,Yes,No,24896,6.77
+52,AMD Threadripper 2950X,16,180,Yes,No,4905,sTR4,No,No,No,No,Yes,No,29635,6.04
+53,AMD Threadripper 2970WX,24,250,Yes,No,6800,sTR4,No,No,No,No,Yes,No,30220,4.44
+54,AMD Threadripper 2990WX,32,250,Yes,No,10100,sTR4,No,No,No,No,Yes,No,32173,3.19
+55,AMD Threadripper 3960X,24,280,Yes,No,8375,sTRX4,No,No,No,No,No,Yes,54751,6.54
+56,AMD Threadripper 3970X,32,280,Yes,No,11250,sTRX4,No,No,No,No,No,Yes,63557,5.65
+57,AMD Threadripper 3990X,64,280,Yes,No,24155,sTRX4,No,No,No,No,No,Yes,81306,3.37
