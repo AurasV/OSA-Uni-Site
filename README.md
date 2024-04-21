@@ -1,4 +1,4 @@
-# Osa-Site
+# Operating Systems 1
 
 Simple Dynamic Site for Uni
 
